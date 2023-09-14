@@ -45,10 +45,10 @@ int binary_tree_balance(const binary_tree_t *tree)
 
 	if (left_height > right_height)
 	{
-		return (int)(left_height - right_height);
+		return ((int)(left_height - right_height));
 	}
 	else
 	{
-		return (int)(right_height - left_height);
+		return ((int)(right_height - left_height));
 	}
 }
