@@ -11,6 +11,12 @@ compile and run the programs with the following command:
 ```
 git clone https://github.com/Holbiwan/holbertonschool-binary_trees.git
 ```
+## File Structure
+The Binary Trees project includes the following key files:
+```
+* binary_trees.h: Header file containing function prototypes and the definition of the binary_tree_t type.
+* *.c: C source files implementing the binary tree functions.
+```
 ## Table of contents
 
 |***File***|***Description***|
@@ -34,3 +40,7 @@ git clone https://github.com/Holbiwan/holbertonschool-binary_trees.git
 |[16-binary_tree_is_perfect.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/16-binary_tree_is_perfect.c)|Function that checks if a binary tree is perfect|
 |[17-binary_tree_sibling.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/17-binary_tree_sibling.c)|Function that finds the sibling of a node|
 |[18-binary_tree_uncle.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/18-binary_tree_uncle.c)|Function that finds the uncle of a node|
+
+# Author
+|[Saima Riaz](https://github.com/saima-riaz)|
+|[Younes SABER](https://github.com/seeyou7)|
