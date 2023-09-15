@@ -13,6 +13,6 @@ git clone https://github.com/Holbiwan/holbertonschool-binary_trees.git
 ```
 ## Table of contents
 
-|   File   | Description|
-|----------|------------|
+|   File                         | Description|
+|----------                      |------------|
 |
