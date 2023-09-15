@@ -10,5 +10,9 @@ A binary tree is a hierarchical data structure consisting of nodes connected by 
 compile and run the programs with the following command:
 ```
 git clone https://github.com/Holbiwan/holbertonschool-binary_trees.git
-
 ```
+## Table of contents
+
+|   File   | Description|
+|----------|------------|
+|
