@@ -14,8 +14,9 @@ git clone https://github.com/Holbiwan/holbertonschool-binary_trees.git
 ## File Structure
 The Binary Trees project includes the following key files:
 ```
-* binary_trees.h: Header file containing function prototypes and the definition of the binary_tree_t type.
-* *.c: C source files implementing the binary tree functions.
+Binary_trees.h: Header file containing function prototypes and the definition of the binary_tree_t type.
+
+*.c: C source files implementing the binary tree functions.
 ```
 ## Table of contents
 
@@ -31,7 +32,7 @@ The Binary Trees project includes the following key files:
 |[7-binary_tree_inorder.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/7-binary_tree_inorder.c)|Function that goes through a binary tree using in-order traversal|
 |[8-binary_tree_postorder.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/8-binary_tree_postorder.c)|Function that goes through a binary tree using post-order traversal|
 |[9-binary_tree_height.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c)|Function that measures the height of a binary tree|
-|[10-binary_tree_depth.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/10-binary_tree_depth.c)|function that measures the depth of a node in a binary tree|
+|[10-binary_tree_depth.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/10-binary_tree_depth.c)|Function that measures the depth of a node in a binary tree|
 |[11-binary_tree_size.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/11-binary_tree_size.c)|Function that measures the size of a binary tree|
 |[12-binary_tree_leaves.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/12-binary_tree_leaves.c)|Function that counts the leaves in a binary tree|
 |[13-binary_tree_nodes.c](https://github.com/saima-riaz/holbertonschool-binary_trees/blob/main/13-binary_tree_nodes.c)|Function that counts the nodes with at least 1 child in a binary tree|
