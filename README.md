@@ -6,3 +6,9 @@
 
 A binary tree is a hierarchical data structure consisting of nodes connected by edges, with each node having at most two children. It's used for efficient data organization and various applications in computer science, including search algorithms, expression parsing, and file systems.
 
+## Requirements
+compile and run the programs with the following command:
+```
+git clone https://github.com/Holbiwan/holbertonschool-binary_trees.git
+
+```
